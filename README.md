@@ -56,12 +56,22 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-Sanjaya-Samudra.vercel.app/?user=Sanjaya-Samudra&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-Sanjaya-Samudra.vercel.app/api?username=Sanjaya-Samudra&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-Sanjaya-Samudra.vercel.app/api/top-langs/?username=Sanjaya-Samudra&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjaya-Samudra&theme=algolia" alt="Sanjaya-Samudra" />
+</p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Sanjaya-Samudra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sanjaya-Samudra&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanjaya-Samudra&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Sanjaya-Samudra" height="192px"/>
+</p>
+<!--<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Sanjaya-Samudra&layout=compact&theme=algolia" alt="Sanjaya-Samudra" />
+  </a>
+</p>-->
 
 <br/><br/>
 
