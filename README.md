@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently reading for a degree at **University Of Jayewardenepura**
+ 🔭 I’m currently reading for a software engineering degree at **University Of Jayewardenepura**
  
  🌱 I’m currently learning **Java, My-SQL**
 
