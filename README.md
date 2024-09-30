@@ -16,7 +16,7 @@
 
 💬 Ask me about **Java, SQL, C++, JavaScript, HTML, CSS**
 
-⚡ Fun fact **Watching Movies, Playing Games**
+⚡ Fun fact **Watching Movies**
 
  </div>
  
