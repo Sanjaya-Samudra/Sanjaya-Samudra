@@ -16,7 +16,7 @@
 
 💬 Ask me about **Java, SQL, C++, JavaScript, HTML, CSS**
 
-⚡ Fun fact **Code is like humor. When you have to explain it, it’s bad.**
+⚡ Moral Fact **We cannot solve our problems with the same thinking we used when we created them.**
 
  </div>
  
