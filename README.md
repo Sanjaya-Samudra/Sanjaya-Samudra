@@ -16,7 +16,7 @@
 
 💬 Ask me about **Java, SQL, C++, JavaScript, HTML, CSS**
 
-⚡ Moral Fact **We cannot solve our problems with the same thinking we used when we created them.**
+⚡ Moral Fact **Family is not an important thing, it's everything.**
 
  </div>
  
