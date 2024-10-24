@@ -14,9 +14,9 @@
  
  🌱 I’m currently learning **Java, My-SQL, JavaScript**
 
-💬 Ask me about **Java, SQL, C++, JavaScript, HTML, CSS, Python**
+💬 Ask me about **Java, SQL, JavaScript, HTML, CSS**
 
-⚡ Moral Fact **Family is not an important thing, it's everything.**
+⚡ Moral Fact **Don't wait for the perfect moment, take the moment and make it perfect.**
 
  </div>
  
