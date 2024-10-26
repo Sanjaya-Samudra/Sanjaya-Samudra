@@ -12,9 +12,9 @@
  
  🔭 I’m currently reading for a software engineering degree at **University Of Jayewardenepura**
  
- 🌱 I’m currently learning **Java, My-SQL, JavaScript**
+ 🌱 I’m currently learning **Java, SQL, JavaScript**
 
-💬 Ask me about **Java, SQL, JavaScript, HTML, CSS**
+💬 Ask me about **Java, SQL, JavaScript, HTML, CSS, C++**
 
 ⚡ Moral Fact **Don't wait for the perfect moment, take the moment and make it perfect.**
 
