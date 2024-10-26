@@ -16,7 +16,7 @@
 
 💬 Ask me about **Java, SQL, JavaScript, HTML, CSS, C++**
 
-⚡ Moral Fact **Don't wait for the perfect moment, take the moment and make it perfect.**
+⚡ Moral Fact **Stop Wishing, Start Doing**
 
  </div>
  
