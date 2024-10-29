@@ -16,7 +16,7 @@
 
 💬 Ask me about **Java, SQL, JavaScript, HTML, CSS, C++**
 
-⚡ Moral Fact **Stop Wishing, Start Doing**
+⚡ Moral Fact **Keep it up, no matter what.**
 
  </div>
  
