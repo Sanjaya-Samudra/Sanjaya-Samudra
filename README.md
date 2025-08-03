@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sanjaya+Samudra!;" />
 </h1>
 
-<h3 align="center">I'm a Undergraduate Software Engineer From Sri Lank</h3>
+<h3 align="center">I'm a Undergraduate Software Engineer From Sri Lanka</h3>
 
 <br/>
 
@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,vscode,github,idea,pycharm,spring,blender,angular" /><br>
-    <img src="https://skillicons.dev/icons?i=python,javascript,cpp,java,mysql,html,css,latex,typescript" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,cpp,java,mysql,html,css,latex,typescript,c" /><br>
 </div>
 
 <br/>
