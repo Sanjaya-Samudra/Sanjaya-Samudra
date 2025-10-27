@@ -16,7 +16,7 @@
 
 💬 Ask me about **Java, SQL, JavaScript, HTML, CSS, C++**
 
-⚡ Moral Fact **Keep it up, no matter what.**
+⚡ Moral Fact **The Best Person You Could Ever Find is You**
 
  </div>
  
