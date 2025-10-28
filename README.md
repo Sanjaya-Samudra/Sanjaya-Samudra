@@ -55,7 +55,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanjaya-Samudra&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Sanjaya-Samudra" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanjaya-Samudra&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Sanjaya-Samudra" height="195px"/>
 </p>
 <!--<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
