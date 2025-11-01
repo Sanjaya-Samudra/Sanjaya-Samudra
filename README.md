@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Java, JavaScript, Python**
 
-💬 Ask me about **Java, SQL, JavaScript, HTML, CSS, C++**
+💬 Ask me about **Java, SQL, JavaScript, HTML, CSS, C++, Python**
 
 ⚡ Moral Fact **The Best Person You Could Ever Find is You**
 
