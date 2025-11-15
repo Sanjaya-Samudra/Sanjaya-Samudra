@@ -12,7 +12,7 @@
  
  🔭 I’m currently reading for a software engineering degree at **University of Sri Jayewardenepura**
  
- 🌱 I’m currently learning **Java, JavaScript, Python, PHP**
+ 🌱 I’m currently learning **Java, JavaScript, Python, PHP, TypeScript**
 
 💬 Ask me about **Java, SQL, JavaScript, HTML, CSS, C++, Python**
 
